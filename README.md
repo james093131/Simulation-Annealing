@@ -17,5 +17,5 @@ For example
 ```
 
 <div align="center">
-<img src="https://github.com/james093131/Simulation-Annealing/blob/master/Convergence.png" alt="Convergence" width="0.7rem"/>
+<img src="https://github.com/james093131/Simulation-Annealing/blob/master/Convergence.png" alt="Convergence" width="70%"/>
 </div>
