@@ -15,3 +15,6 @@ For example
 ./SA  51 1000 100 1.0 0.95
 
 ```
+
+[![Average convergence curve of SA ](https://github.com/james093131/Simulation-Annealing/blob/master/Convergence.png)]()
+
