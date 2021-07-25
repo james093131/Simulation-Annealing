@@ -16,6 +16,5 @@ For example
 
 ```
 
-[![Average convergence curve of SA ](]()
 
-<img src="https://github.com/james093131/Simulation-Annealing/blob/master/Convergence.png)" alt="Convergence" width="50%"/>
+<img src="https://github.com/james093131/Simulation-Annealing/blob/master/Convergence.png" alt="Convergence" width="50%"/>
